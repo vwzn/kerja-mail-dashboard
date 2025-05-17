@@ -5,22 +5,6 @@ A modern, full-stack email administration dashboard with authentication and doma
 
 
 ---
-
-## ✨ Features
-
-* **Secure Authentication**
-  JWT-based login/register with protected routes
-* **Dashboard Overview**
-  Beautiful metrics and statistics visualization
-* **Domain Management**
-  Full CRUD operations for email domains
-* **Responsive Design**
-  Works flawlessly on desktop and mobile
-* **Modern Stack**
-  Built with cutting-edge technologies
-
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
@@ -39,6 +23,21 @@ A modern, full-stack email administration dashboard with authentication and doma
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=Prisma\&logoColor=white)
+
+---
+
+## ✨ Features
+
+* **Secure Authentication**
+  JWT-based login/register with protected routes
+* **Dashboard Overview**
+  Beautiful metrics and statistics visualization
+* **Domain Management**
+  Full CRUD operations for email domains
+* **Responsive Design**
+  Works flawlessly on desktop and mobile
+* **Modern Stack**
+  Built with cutting-edge technologies
 
 ---
 
