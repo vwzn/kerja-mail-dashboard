@@ -148,12 +148,6 @@ See [`LICENSE`](./LICENSE) for more information.
 
 ---
 
-## ✉️ Contact
-
-**VWZN** –  – [youremail@example.com](mailto:youremail@example.com)
-Project Link: [github.com/vwzn/kerja-mail-dashboard](https://github.com/vwzn/kerja-mail-dashboard)
-
----
 
 ## 🎨 Customization Tips
 
