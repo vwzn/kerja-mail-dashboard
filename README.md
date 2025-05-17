@@ -1,5 +1,5 @@
 
-# <img src="https://img.icons8.com/color/48/000000/react-native.png" width="30"/> Kerja Mail Dashboard
+# <img src="https://img.icons8.com/color/48/000000/react-js.png" width="30"/> Kerja Mail Dashboard
 
 A modern, full-stack email administration dashboard with authentication and domain management.
 
