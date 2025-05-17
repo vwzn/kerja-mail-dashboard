@@ -3,7 +3,7 @@ import { Mail, Globe, Settings, BarChart3 } from 'lucide-react';
 
 const Sidebar = () => {
     const navItems = [
-        { path: '/', icon: BarChart3, label: 'Overview' },
+        { path: '/dashboard', icon: BarChart3, label: 'Overview' },
         { path: '/domains', icon: Globe, label: 'Domains' },
         { path: '/mailboxes', icon: Mail, label: 'Mailboxes' },
         { path: '/settings', icon: Settings, label: 'Settings' },

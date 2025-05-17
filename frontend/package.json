@@ -12,14 +12,19 @@
     "format": "prettier --write \"src/**/*.{js,jsx,json,css,md}\""
   },
   "dependencies": {
+    "@react-three/drei": "^10.0.7",
+    "@react-three/fiber": "^9.1.2",
     "@reduxjs/toolkit": "^2.8.2",
     "@testing-library/dom": "^10.4.0",
     "axios": "^1.9.0",
+    "jwt-decode": "^4.0.0",
     "lucide-react": "^0.510.0",
+    "maath": "^0.10.8",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.6.0",
+    "three": "^0.176.0",
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
