@@ -3,8 +3,6 @@
 
 A modern, full-stack email administration dashboard with authentication and domain management.
 
-![Dashboard Preview](https://i.imgur.com/JqkXbQj.png)
-*Replace with an actual screenshot of your app.*
 
 ---
 
