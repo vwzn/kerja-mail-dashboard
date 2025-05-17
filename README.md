@@ -107,28 +107,6 @@ A modern, full-stack email administration dashboard with authentication and doma
 
 ---
 
-## 🌟 Project Structure
-
-```
-mail-admin/
-├── client/               # Frontend (React)
-│   ├── public/           # Static files
-│   ├── src/              # Source code
-│   │   ├── components/   # React components
-│   │   ├── pages/        # Page components
-│   │   ├── routes/       # Routing configuration
-│   │   └── store/        # Redux store
-│   └── package.json      # Frontend dependencies
-│
-├── server/               # Backend (Node.js/Express)
-│   ├── prisma/           # Database schema
-│   ├── routes/           # API routes
-│   ├── app.js            # Express app
-│   └── package.json      # Backend dependencies
-└── README.md             # You are here!
-```
-
----
 
 ## 📚 Documentation
 
@@ -172,8 +150,8 @@ See [`LICENSE`](./LICENSE) for more information.
 
 ## ✉️ Contact
 
-**Your Name** – [@yourtwitter](https://twitter.com/yourtwitter) – [youremail@example.com](mailto:youremail@example.com)
-Project Link: [github.com/yourusername/mail-admin](https://github.com/yourusername/mail-admin)
+**VWZN** –  – [youremail@example.com](mailto:youremail@example.com)
+Project Link: [github.com/vwzn/kerja-mail-dashboard](https://github.com/vwzn/kerja-mail-dashboard)
 
 ---
 
@@ -187,4 +165,4 @@ Project Link: [github.com/yourusername/mail-admin](https://github.com/youruserna
 
 ---
 
-Kalau mau ditambahkan bagian contoh API, UI demo login, atau penjelasan kontribusi secara mendalam, tinggal bilang aja ya, siap bantu! ✅
+
